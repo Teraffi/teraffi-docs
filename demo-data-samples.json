@@ -1,0 +1,510 @@
+{
+  "demo_brands": [
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "type": "streaming-platform",
+      "industry": "entertainment",
+      "logo_url": "/demo-assets/logos/netflix.png",
+      "description": "Global streaming platform seeking authentic brand partnerships and original content collaborations",
+      "values": ["storytelling", "diversity", "innovation", "global-reach", "cultural-relevance"],
+      "target_audience": {
+        "primary": "Adults 18-54",
+        "demographics": {
+          "age_range": "25-45 primary",
+          "income": "$50K-150K household",
+          "interests": ["premium content", "binge-watching", "original series", "international content"],
+          "psychographics": ["early adopters", "culture seekers", "entertainment enthusiasts"]
+        }
+      },
+      "partnership_preferences": {
+        "budget_tier": "high",
+        "preferred_types": ["original content", "cultural moments", "brand integration", "co-production"],
+        "avoidance": ["competing platforms", "inappropriate content", "political controversy"],
+        "success_metrics": ["subscriber growth", "engagement time", "brand awareness", "cultural impact"]
+      },
+      "cultural_affinities": [
+        "progressive values",
+        "global perspectives", 
+        "authentic storytelling",
+        "diverse representation",
+        "premium quality",
+        "innovation in content"
+      ],
+      "recent_partnerships": [
+        {
+          "partner": "Shondaland",
+          "project": "Bridgerton",
+          "value": "$7.5M",
+          "roi": "450%",
+          "cultural_impact": "viral global phenomenon"
+        }
+      ]
+    },
+    {
+      "id": "patagonia",
+      "name": "Patagonia",
+      "type": "lifestyle-brand",
+      "industry": "outdoor-apparel",
+      "logo_url": "/demo-assets/logos/patagonia.png",
+      "description": "Environmental activism brand seeking authentic partnerships with mission-aligned content",
+      "values": ["environmental-protection", "activism", "authenticity", "quality", "responsibility"],
+      "target_audience": {
+        "primary": "Environmentally conscious adults 25-55",
+        "demographics": {
+          "age_range": "28-50 core",
+          "income": "$75K-200K household",
+          "interests": ["outdoor activities", "environmental causes", "sustainable living", "adventure"],
+          "psychographics": ["conscious consumers", "activists", "outdoor enthusiasts", "quality seekers"]
+        }
+      },
+      "partnership_preferences": {
+        "budget_tier": "medium-high",
+        "preferred_types": ["environmental content", "adventure documentaries", "activist campaigns", "outdoor lifestyle"],
+        "avoidance": ["fast fashion", "environmental harm", "greenwashing", "inauthentic messaging"],
+        "success_metrics": ["brand authenticity", "environmental impact", "customer loyalty", "mission alignment"]
+      },
+      "cultural_affinities": [
+        "environmental activism",
+        "outdoor adventure",
+        "authentic storytelling",
+        "social responsibility",
+        "premium quality",
+        "counter-culture values"
+      ],
+      "recent_partnerships": [
+        {
+          "partner": "The North Face",
+          "project": "The Dawn Wall",
+          "value": "$1.2M",
+          "roi": "340%",
+          "cultural_impact": "inspired outdoor community"
+        }
+      ]
+    },
+    {
+      "id": "glossier",
+      "name": "Glossier",
+      "type": "beauty-brand",
+      "industry": "cosmetics",
+      "logo_url": "/demo-assets/logos/glossier.png",
+      "description": "Community-driven beauty brand seeking authentic creator partnerships and cultural moment activations",
+      "values": ["authenticity", "inclusivity", "community", "self-expression", "accessibility"],
+      "target_audience": {
+        "primary": "Women 18-35",
+        "demographics": {
+          "age_range": "22-32 core",
+          "income": "$40K-100K household",
+          "interests": ["beauty", "skincare", "social media", "self-care", "trends"],
+          "psychographics": ["digital natives", "community-oriented", "authenticity seekers", "trend followers"]
+        }
+      },
+      "partnership_preferences": {
+        "budget_tier": "medium",
+        "preferred_types": ["creator collaborations", "beauty content", "lifestyle partnerships", "community activations"],
+        "avoidance": ["overly produced content", "inauthentic messaging", "competitor brands", "harmful ingredients"],
+        "success_metrics": ["community engagement", "user-generated content", "brand authenticity", "sales conversion"]
+      },
+      "cultural_affinities": [
+        "authentic beauty",
+        "community building",
+        "self-expression",
+        "inclusivity",
+        "digital-first approach",
+        "millennial/gen-z culture"
+      ],
+      "recent_partnerships": [
+        {
+          "partner": "Olivia Rodrigo",
+          "project": "Get Ready With Me",
+          "value": "$500K",
+          "roi": "280%",
+          "cultural_impact": "viral TikTok trend"
+        }
+      ]
+    }
+  ],
+  
+  "demo_content": [
+    {
+      "id": "green-rush-film",
+      "title": "Green Rush",
+      "type": "feature-film",
+      "genre": "environmental-thriller",
+      "status": "pre-production",
+      "budget": "$2M",
+      "description": "Environmental thriller following investigative journalists exposing corporate environmental crimes",
+      "themes": [
+        "environmental justice",
+        "corporate corruption", 
+        "climate change",
+        "investigative journalism",
+        "social activism"
+      ],
+      "target_audience": {
+        "primary": "Adults 25-54",
+        "demographics": {
+          "age_range": "28-45 core",
+          "income": "$50K-150K household",
+          "interests": ["environmental issues", "thrillers", "social justice", "documentaries"],
+          "psychographics": ["socially conscious", "environmentally aware", "justice seekers"]
+        }
+      },
+      "production_details": {
+        "timeline": {
+          "pre_production": "Q1 2025",
+          "principal_photography": "Q2 2025",
+          "post_production": "Q3 2025",
+          "release": "Q4 2025"
+        },
+        "locations": ["Pacific Northwest", "Corporate offices", "Natural landscapes"],
+        "cast": "Ensemble cast with emerging talent",
+        "distribution_goal": "Streaming platform + festival circuit"
+      },
+      "partnership_opportunities": {
+        "product_placement": "$100K-300K value",
+        "co_financing": "$500K-1M available",
+        "marketing_partnership": "$200K-500K value",
+        "distribution_support": "Platform placement priority"
+      },
+      "cultural_affinities": [
+        "environmental activism",
+        "social justice",
+        "authentic storytelling",
+        "corporate accountability",
+        "climate awareness"
+      ]
+    },
+    {
+      "id": "american-beauty-star-s3",
+      "title": "American Beauty Star Season 3",
+      "type": "reality-competition",
+      "genre": "beauty-competition",
+      "status": "development",
+      "budget": "$8M season",
+      "description": "Beauty competition reality show where makeup artists compete for career-changing opportunities",
+      "themes": [
+        "beauty industry",
+        "competition",
+        "career development",
+        "creativity",
+        "diversity in beauty"
+      ],
+      "target_audience": {
+        "primary": "Women 18-44",
+        "demographics": {
+          "age_range": "22-35 core",
+          "income": "$35K-85K household",
+          "interests": ["beauty", "makeup", "reality TV", "competition shows", "tutorials"],
+          "psychographics": ["beauty enthusiasts", "aspiring artists", "trend followers", "community seekers"]
+        }
+      },
+      "production_details": {
+        "timeline": {
+          "casting": "Q1 2025",
+          "production": "Q2 2025",
+          "post_production": "Q3 2025",
+          "air_date": "Q4 2025"
+        },
+        "format": "12 episodes, 1-hour format",
+        "host": "Ashley Graham (confirmed)",
+        "network": "Lifetime Television"
+      },
+      "partnership_opportunities": {
+        "title_sponsorship": "$2M-3M value",
+        "product_integration": "$500K-1M per brand",
+        "prize_package": "$100K-500K value",
+        "digital_activation": "$300K-800K value"
+      },
+      "cultural_affinities": [
+        "beauty diversity",
+        "artistic expression",
+        "competitive spirit",
+        "career empowerment",
+        "community building"
+      ],
+      "previous_partnerships": [
+        {
+          "season": 2,
+          "partner": "Revlon",
+          "value": "$1.5M",
+          "roi": "380%",
+          "impact": "increased brand awareness 45%"
+        }
+      ]
+    },
+    {
+      "id": "maker-space-tv",
+      "title": "The Maker Space",
+      "type": "competition-series",
+      "genre": "diy-crafting",
+      "status": "pilot-approved",
+      "budget": "$5M season",
+      "description": "Creative competition where makers and crafters compete to create innovative products and solutions",
+      "themes": [
+        "creativity",
+        "innovation",
+        "DIY culture",
+        "entrepreneurship",
+        "sustainable making"
+      ],
+      "target_audience": {
+        "primary": "Adults 25-55",
+        "demographics": {
+          "age_range": "28-48 core",
+          "income": "$45K-120K household",
+          "interests": ["DIY projects", "crafting", "innovation", "entrepreneurship", "sustainability"],
+          "psychographics": ["creators", "innovators", "sustainable living advocates", "hands-on learners"]
+        }
+      },
+      "production_details": {
+        "timeline": {
+          "development": "Q1 2025",
+          "production": "Q2-Q3 2025",
+          "post_production": "Q4 2025",
+          "premiere": "Q1 2026"
+        },
+        "format": "10 episodes, 1-hour format",
+        "platform": "Streaming service TBD",
+        "judges": "Industry experts in design and innovation"
+      },
+      "partnership_opportunities": {
+        "tool_sponsor": "$800K-1.2M value",
+        "material_partner": "$400K-800K value",
+        "prize_sponsor": "$200K-600K value",
+        "retail_partner": "$500K-1M value"
+      },
+      "cultural_affinities": [
+        "maker movement",
+        "sustainable innovation",
+        "entrepreneurial spirit",
+        "hands-on creativity",
+        "community building"
+      ]
+    }
+  ],
+
+  "demo_partnerships": [
+    {
+      "id": "netflix-green-rush",
+      "brand_id": "netflix",
+      "content_id": "green-rush-film",
+      "status": "negotiating",
+      "affinity_score": 87,
+      "partnership_type": "distribution-financing",
+      "estimated_value": "$1.2M",
+      "timeline": {
+        "proposal_sent": "2024-12-15",
+        "initial_meeting": "2025-01-08",
+        "contract_negotiation": "2025-01-15",
+        "expected_close": "2025-02-01"
+      },
+      "deal_structure": {
+        "distribution_guarantee": "$800K",
+        "marketing_support": "$300K",
+        "platform_placement": "Featured content",
+        "revenue_sharing": "60/40 after recoup"
+      },
+      "success_metrics": {
+        "predicted_roi": "245%",
+        "audience_reach": "3.2M target viewers",
+        "cultural_impact": "environmental awareness campaign",
+        "brand_alignment": "sustainability messaging"
+      },
+      "match_explanation": [
+        "Strong cultural alignment on environmental themes",
+        "Target audience overlap of 68% with Netflix viewers",
+        "Complements Netflix's documentary and social issue content",
+        "Opportunity for award season positioning and cultural impact"
+      ]
+    },
+    {
+      "id": "patagonia-green-rush",
+      "brand_id": "patagonia",
+      "content_id": "green-rush-film", 
+      "status": "interested",
+      "affinity_score": 96,
+      "partnership_type": "co-financing-marketing",
+      "estimated_value": "$750K",
+      "timeline": {
+        "initial_outreach": "2025-01-10",
+        "concept_presentation": "2025-01-20",
+        "partnership_proposal": "2025-02-05",
+        "expected_decision": "2025-02-15"
+      },
+      "deal_structure": {
+        "co_financing": "$500K",
+        "marketing_partnership": "$200K",
+        "brand_integration": "Authentic product placement",
+        "activism_tie_in": "$50K environmental campaign"
+      },
+      "success_metrics": {
+        "predicted_roi": "320%",
+        "brand_authenticity": "97% alignment score",
+        "environmental_impact": "Measurable awareness increase",
+        "customer_engagement": "Expected 45% boost"
+      },
+      "match_explanation": [
+        "Perfect mission alignment with environmental activism",
+        "Authentic storytelling opportunity without compromise",
+        "Target audience 89% overlap with Patagonia customers",
+        "Opportunity to amplify real environmental message"
+      ]
+    },
+    {
+      "id": "glossier-beauty-star",
+      "brand_id": "glossier",
+      "content_id": "american-beauty-star-s3",
+      "status": "proposal-review",
+      "affinity_score": 91,
+      "partnership_type": "product-integration",
+      "estimated_value": "$650K",
+      "timeline": {
+        "proposal_submitted": "2024-12-20",
+        "stakeholder_review": "2025-01-05",
+        "creative_meeting": "2025-01-15",
+        "contract_finalization": "2025-01-30"
+      },
+      "deal_structure": {
+        "product_integration": "$400K value",
+        "prize_package": "$100K value", 
+        "digital_activation": "$150K spend",
+        "influencer_collaboration": "Winner partnership"
+      },
+      "success_metrics": {
+        "predicted_roi": "275%",
+        "brand_awareness": "+35% among target demo",
+        "user_generated_content": "15K+ posts predicted",
+        "sales_conversion": "12% lift expected"
+      },
+      "match_explanation": [
+        "Authentic beauty brand integration opportunity",
+        "Perfect alignment with show's diversity mission",  
+        "Target audience 82% overlap with Glossier customers",
+        "Strong digital activation and community building potential"
+      ]
+    }
+  ],
+
+  "demo_users": [
+    {
+      "id": "sarah-bennett",
+      "name": "Sarah Bennett",
+      "email": "sarah.bennett@globalbrands.com",
+      "role": "Chief Brand Officer",
+      "company": "Global Consumer Brands Inc.",
+      "persona": "brand-manager",
+      "avatar_url": "/demo-assets/avatars/sarah-bennett.jpg",
+      "dashboard_config": {
+        "priority_matches": 8,
+        "active_partnerships": 12,
+        "pipeline_value": 18500000,
+        "avg_roi": 340,
+        "success_rate": 87,
+        "current_campaigns": 5
+      },
+      "preferences": {
+        "industries": ["entertainment", "lifestyle", "technology"],
+        "partnership_types": ["brand-integration", "co-marketing", "sponsorship"],
+        "budget_range": "$500K-5M",
+        "success_metrics": ["brand-awareness", "customer-acquisition", "roi"]
+      },
+      "recent_activity": [
+        {
+          "timestamp": "2025-01-08T10:30:00Z",
+          "action": "reviewed_partnership",
+          "details": "Netflix Green Rush collaboration proposal"
+        },
+        {
+          "timestamp": "2025-01-07T14:22:00Z", 
+          "action": "approved_budget",
+          "details": "$1.2M for Q1 partnership initiatives"
+        }
+      ]
+    },
+    {
+      "id": "colby-wagner",
+      "name": "Colby Wagner",
+      "email": "colby@creativestudio.com",
+      "role": "Executive Producer",
+      "company": "Creative Studio Productions",
+      "persona": "content-producer",
+      "avatar_url": "/demo-assets/avatars/colby-wagner.jpg",
+      "dashboard_config": {
+        "active_projects": 4,
+        "partnership_pipeline": 2800000,
+        "funding_secured": 65,
+        "projects_greenlit": 3,
+        "industry_connections": 156
+      },
+      "preferences": {
+        "content_types": ["film", "documentary", "streaming-series"],
+        "partnership_needs": ["financing", "distribution", "marketing"],
+        "budget_targets": "$500K-10M",
+        "success_metrics": ["funding-completion", "distribution-reach", "cultural-impact"]
+      },
+      "current_projects": [
+        {
+          "id": "green-rush-film",
+          "status": "seeking-partnerships",
+          "funding_goal": "$2M",
+          "secured": "$800K"
+        }
+      ],
+      "recent_activity": [
+        {
+          "timestamp": "2025-01-08T09:15:00Z",
+          "action": "pitch_scheduled",
+          "details": "Patagonia partnership presentation for Green Rush"
+        }
+      ]
+    }
+  ],
+
+  "demo_scenarios": [
+    {
+      "id": "netflix-executive-journey",
+      "title": "The Netflix Executive Experience",
+      "description": "Sarah Bennett explores high-value partnership opportunities for streaming content",
+      "user_id": "sarah-bennett",
+      "estimated_duration": "8 minutes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Dashboard Overview",
+          "description": "View personalized partnership opportunities",
+          "interactive_elements": ["priority_matches", "performance_metrics"],
+          "duration": "90 seconds"
+        },
+        {
+          "step": 2, 
+          "title": "Affinity Matching",
+          "description": "Deep dive into Green Rush film partnership",
+          "interactive_elements": ["affinity_analysis", "cultural_intelligence"],
+          "duration": "120 seconds"
+        },
+        {
+          "step": 3,
+          "title": "Partnership Proposal",
+          "description": "Generate custom partnership proposal",
+          "interactive_elements": ["ai_generation", "proposal_customization"],
+          "duration": "150 seconds"
+        },
+        {
+          "step": 4,
+          "title": "Deal Analytics",
+          "description": "Review performance predictions and ROI",
+          "interactive_elements": ["roi_calculator", "success_prediction"],
+          "duration": "120 seconds"
+        },
+        {
+          "step": 5,
+          "title": "Partnership Execution",
+          "description": "Initiate partnership workflow",
+          "interactive_elements": ["calendar_integration", "stakeholder_notification"],
+          "duration": "90 seconds"
+        }
+      ]
+    }
+  ]
+}
